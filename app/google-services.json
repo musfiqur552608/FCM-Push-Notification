@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602750821604",
+    "project_id": "fcm-app-18848",
+    "storage_bucket": "fcm-app-18848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602750821604:android:dd9dca83409ec0dcda78f1",
+        "android_client_info": {
+          "package_name": "org.freedu.fcmapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGlXmNba-JqaRwFI8AdZhMhbagyizcPoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
