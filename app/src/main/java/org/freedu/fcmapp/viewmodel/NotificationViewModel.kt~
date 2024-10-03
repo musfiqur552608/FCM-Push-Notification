@@ -12,7 +12,7 @@ import kotlinx.coroutines.launch
 import org.freedu.fcmapp.repository.FCMRepository
 
 class NotificationViewModel(application: Application):AndroidViewModel(application) {
-    private val fcmRepository: FCMRepository = FCMRepository()
+    private lateinit var fcmRepository: FCMRepository
     private val _notificationSent = MutableLiveData<Boolean>()
     val notificationSent : LiveData<Boolean> get() = _notificationSent
 

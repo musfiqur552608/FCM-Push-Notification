@@ -13,7 +13,7 @@ import java.io.IOException
 
 class FCMRepository {
     private val serverKey =
-        "BBJzt76pG1edKYpLuI8IBEnpWj5xniVW5Q8eO3nl36DAm4KG4Lv_eq9148gqmT_AGBhu9kBSe1Cveu82IrI9mUQ"
+        "BENhFwc7utI7IlEdzVmh9PBZcgNdDix_EHanVmNoxjICsvd0bIyYQyubVcGrkleCMqKb4pgXuM4PC7ea6RXi9_I"
     private val fcmUrl = "https://fcm.googleapis.com/fcm/send"
     private val client = OkHttpClient()
 

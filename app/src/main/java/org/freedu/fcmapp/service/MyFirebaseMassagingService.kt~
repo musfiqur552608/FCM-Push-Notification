@@ -1,0 +1,4 @@
+package org.freedu.fcmapp.service
+
+class MyFirebaseMassagingService {
+}
